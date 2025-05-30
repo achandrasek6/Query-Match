@@ -1,6 +1,6 @@
 # Query-Match
 
-**Approximate‐substring matching for DNA sequences**
+*Approximate‐substring matching for DNA sequences*
 
 ## Overview
 
